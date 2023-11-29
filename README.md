@@ -1,8 +1,7 @@
 # Vicky Gupta 👋
 
- - 👀 I’m interested in Programming, mostly in FrontEnd Development
- - 🌱 I’m currently pursuing Master of Computer Applications
- - 📫 More about me [Portfolio](https://vickygupta16.github.io/#/)
+ - 👀 Interested in Software Development and testing, and System enhancement.
+ - 🌱 Qualified Master of Computer Applications and achieved Silver Medal for academic excellence.
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=vickygupta16&show_icons=true&theme=blue-green)
 
